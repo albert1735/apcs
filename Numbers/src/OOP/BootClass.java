@@ -3,7 +3,7 @@ package OOP;
 import java.util.Scanner;
 
 
-public class BootClass 
+public class BootClass
 {
 	int shoeSize;
 	String material;
